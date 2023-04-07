@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Tobias</h1>
+<h3 align="center">A passionate software & web developer from Finland</h3>
 # 💫 About Me:
 🌱 I’m currently learning Software Development<br>💬 Add me on LinkedIn :)
 
